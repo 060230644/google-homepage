@@ -1,0 +1,79 @@
+body {
+  font-family: "Arial";
+  height: 100%;
+  width: 99%;
+}
+nav ul {
+  list-style: none;
+  width: auto;
+  text-align: right;
+  margin-right: 30px;
+}
+a {
+  color: #555555;
+}
+.gmail {
+  margin-right: 15px;
+  display: inline;
+  font-size: 15px;
+}
+.images {
+display: inline;
+}
+.container {
+  margin-top: 135px;
+  display: grid;
+  grid-template-rows: 150px;
+}
+.gooimg {
+  margin: auto;
+}
+.searchbar {
+  border: solid #e7e7e7 1px;
+  margin: 0 auto 0 auto;
+  width: 585px;
+  height: 40px;
+  padding-left: 15px;
+  box-shadow: 6px 6px 30px -15px rgba(87,87,87,1);
+}
+.buttons {
+  margin: 15px auto 0 auto;
+}
+.searchbut {
+  background-color: #efefef;
+  border: none;
+  color: black;
+  height: 35px;
+  padding: 0 15px 0 15px;
+  margin-right: 10px;
+}
+.luckybut {
+  background-color: #efefef;
+  border: none;
+  color: black;
+  height: 35px;
+  padding: 0 10px 0 10px;
+}
+.offered {
+  margin: 25px auto 0 auto;
+  font-size: 13px;
+}
+.botnav1 {
+    position: fixed;
+    bottom: 50px;
+}
+.botnav2 {
+  position: fixed;
+  bottom: 5px;
+
+}
+.botnav3 {
+  position: fixed;
+  bottom: 5px;
+  right: 0;
+  text-align: right;
+}
+
+div nav ul li {
+  display: inline;
+}
